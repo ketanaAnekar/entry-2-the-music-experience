@@ -1,0 +1,13 @@
+body {
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    text-align: center;
+    background-image:url('thunder.gif'); background-repeat:repeat; }
+a {
+    color: rgb(255, 255, 255);
+}
+a:hover {
+    color: rgb(0, 255, 34);
+    font-size: medium;
+}

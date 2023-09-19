@@ -1,0 +1,12 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    text-align: center;
+    background-image:url('color\ wave\ 2.gif'); background-repeat:repeat; }
+a {
+    color: black;
+}
+a:hover {
+    color: rgb(0, 255, 34);
+    font-size: medium;
+}
